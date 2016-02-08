@@ -17,7 +17,7 @@
       <div class="row">
   <div class="col-sm-8 welkom">  <h1>Welkom </h1>
     <img src="images/GRID_logo.gif"  style="float: left; padding-right: 10px;">
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales, leo sed mattis eleifend, nisl magna pretium est, sit amet scelerisque nunc ex eu dolor. Aenean bibendum ante id ipsum pellentesque fringilla at ac ligula. Nunc posuere sodales ipsum vitae blandit. Aliquam erat volutpat. Phasellus tempus rhoncus accumsan. In nulla lacus, lacinia in rutrum sed, consectetur sed metus. Fusce dictum tristique ligula nec hendrerit. Vestibulum lobortis fermentum volutpat. Aliquam massa lacus, rhoncus nec scelerisque vel, fermentum eu nunc. Vivamus eget condimentum dolor.
+  <p> Lorem test ipsum dolor sit amet, consectetur adipiscing elit. Integer sodales, leo sed mattis eleifend, nisl magna pretium est, sit amet scelerisque nunc ex eu dolor. Aenean bibendum ante id ipsum pellentesque fringilla at ac ligula. Nunc posuere sodales ipsum vitae blandit. Aliquam erat volutpat. Phasellus tempus rhoncus accumsan. In nulla lacus, lacinia in rutrum sed, consectetur sed metus. Fusce dictum tristique ligula nec hendrerit. Vestibulum lobortis fermentum volutpat. Aliquam massa lacus, rhoncus nec scelerisque vel, fermentum eu nunc. Vivamus eget condimentum dolor.
 
 Donec sollicitudin felis massa, a tempor lacus eleifend in. Curabitur suscipit non erat et laoreet. Maecenas ut neque quis urna tincidunt tristique a ut mauris. Nulla fringilla semper cursus. Duis dignissim maximus elit et semper. Donec blandit sem a nisl dignissim sodales. Aenean ultricies tempus metus, et sagittis diam congue non.
 
